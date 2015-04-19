@@ -1,0 +1,79 @@
+body {
+	font-size: 16px;
+	color: #66663D;
+	background-color: #1A1200;
+	font-family:Garamond;
+}
+
+p {
+    font-size:18px
+}
+
+h2 {
+    font-size: 30px;
+	font-family: Titillium;
+}
+
+span.black72 {
+	font-family: Titillium Black;
+	color: #3D4766;
+	font-size: 72px;
+}
+
+span.thin60 {
+	color: #4762B3;
+	font-size: 52px;
+	font-family: Titillium Thin;
+}
+
+span.podatek {
+	color: #B3B347;
+	font-style: bold;
+	text-align: left;
+}
+
+.txtbox {
+	width: 30%;
+	float:none;
+	text-align: left;
+}
+
+#factbold {
+	align: right;
+	list-style-type: none;
+	color: #66663D;
+	margin: 0;
+	display: inline-block;
+	padding-left:0;
+}
+
+#picture {
+	width: 260px;
+	margin-left: 15px;
+	float: left;
+	position: absolute;
+	left: 30%;
+
+}
+
+th, td {
+	padding: 0px;
+}
+
+td.leva{
+	width: 100px;
+	padding-left: 5px;
+}
+
+td.desna{
+	width: 80px;
+	text-align:right;
+}
+
+.gumb {
+	padding: 1px 73px 1px 73px;
+	border-width: 5px;
+	border-color: #66663D;
+	background-color: #693434;
+	color: black;
+}
